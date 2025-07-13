@@ -22,7 +22,8 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two 
+# Icon must end with two 
+
 Icon
 
 # Thumbnails
@@ -74,8 +75,8 @@ out/
 .fleet
 
 # Simulation GUI and other tools window save file
-networktables.json
-simgui.json
+src/networktables.json
+src/simgui.json
 *-window.json
 
 # Simulation data log directory

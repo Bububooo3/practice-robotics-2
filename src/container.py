@@ -1,5 +1,6 @@
 import commands2, rev, wpilib
 
 
-def RobotContainer():
-    pass
+class RobotContainer:
+    def __init__(self):
+        return "hi"
